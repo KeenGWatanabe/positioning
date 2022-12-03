@@ -1,0 +1,12 @@
+.post-title {
+  font-size: 22px; 
+  line-height: 28px; 
+  font-weight:600; 
+  margin:0 0 14px; 
+}
+.sidebar-wrapper a, .post-title a:hover {
+  color:#555;
+}
+.sidebar-wrapper a:hover {
+  box-shadow: 1px;
+}
