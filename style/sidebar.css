@@ -3,6 +3,20 @@
   left: 0;
   bottom: 0;
   top: 55px;
-  background-color: green;
+  
   width: 72px;
+}
+
+.sidebar-link {
+  height: 76px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sidebar-link:hover {
+  background-color: grey;
+}
+
+.sidebar-link img {
+  height: 50px;
 }
