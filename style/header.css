@@ -41,6 +41,7 @@
 }
 
 .search-button {
+  align-items: left;
   height: 22px;
   width: 22px;
   position: relative;
@@ -63,6 +64,7 @@
   padding-right: 4px;
   border-radius: 2px;
   bottom: -30px;
+  right: -16px;
   opacity: 0;
   transition: opacity 0.15s;
   pointer-events: none;
