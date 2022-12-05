@@ -1,12 +1,17 @@
 .header {
-  margin-top: -4em;
-  height: 40px;
+  margin-top: 10px;`
+  height: 1px;
   position: fixed;
-  
   justify-content: space-between;
   z-index: 100;
 }
 
+.header-bar {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 10px;
+    
+}
 .left-section {
   background-color: lightgreen;
   display: flex;
