@@ -3,8 +3,8 @@
   left: 0;
   bottom: 0;
   top: 55px;
-  
   width: 72px;
+  cursor: pointer;
 }
 
 .sidebar-link {
@@ -14,11 +14,12 @@
   align-items: center;
 }
 .sidebar-link:hover {
-  background-color: grey;
+  background-color: blueviolet;
 }
 
 .sidebar-link img {
   height: 50px;
   width: 50px;
+  border-radius: 15px;
 }
 
